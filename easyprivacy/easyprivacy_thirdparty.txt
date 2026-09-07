@@ -3269,7 +3269,6 @@
 ||danv01ao0kdr2.cloudfront.net^
 ||db7q4jg5rkhk8.cloudfront.net^
 ||dc8na2hxrj29i.cloudfront.net^
-||dc8xl0ndzn2cb.cloudfront.net^
 ||dcv4p460uqa46.cloudfront.net^
 ||dd6zx4ibq538k.cloudfront.net^
 ||de5zarwna0j2q.cloudfront.net^

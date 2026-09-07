@@ -859,7 +859,6 @@
 ||log.mofa.go.kr^
 ||log.pipeline.datarize.io^
 ||log.targetpush.co.kr^
-||logger.bzu.kr^
 ||logs-partners.coupang.com^
 ||megadata.co.kr^
 ||montelena.auction.co.kr^
