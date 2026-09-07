@@ -5444,6 +5444,7 @@ lgbtqnation.com##.single-bottom-ad
 9to5mac.com##.single-custom-post-ad
 geoawesome.com##.single-post__extra-info
 abovethelaw.com##.single-post__sponsored-post--desktop
+colossus.com##.single-sponsor
 policyoptions.irpp.org##.single__ad
 nypost.com##.single__outbrain
 gizza.ai,mixonline.com,radioworld.com##.site-ad
@@ -6891,6 +6892,7 @@ probuilds.net##a[class^="dl-blitz-"]
 zerohedge.com##a[class^="endorsement"]
 trakt.tv##a[class^="hu-ck-s-t-er-"][target="_blank"]
 mallorca.com##a[data-ad]
+colossus.com##a[data-article-sponsor-name]
 turkmenportal.com##a[data-content="promotion"]
 androidauthority.com##a[data-sel="db-link-el"]
 sashares.co.za##a[data-wpel-link="external"]
