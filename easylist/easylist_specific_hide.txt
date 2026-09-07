@@ -8805,6 +8805,7 @@ msn.com##msft-content-card[id^="contentcard_nativead-"]
 msn.com##msn-info-pane-panel[id^="tab_panel_nativead-"]
 msn.com##partner-upsell-card
 ! Bing
+bing.com###b_wt_adepd
 bing.com###bepfo.popup[style^="visibility: visible"]
 bing.com##.ad_sc
 bing.com##.b_ad
